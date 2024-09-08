@@ -1,4 +1,3 @@
-Here’s a detailed README that explains your code using Markdown with plenty of notes and explanations:
 
 ```markdown
 # Contest Winner Picker 🎉
